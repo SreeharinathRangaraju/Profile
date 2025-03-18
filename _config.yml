@@ -75,7 +75,7 @@ content:
           Automated functional and performance testing via git actions.
           Implemented a scalable containerized solution for multiple microservices.
           Reduced the overall infrastructure cost and license cost by migrating to opensource platforms.
-          e.g.: Newrelic to Grafana Loki Migration.
+          e.g.: Jenkins to Git actions, Newrelic to Grafana Loki Migration.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
