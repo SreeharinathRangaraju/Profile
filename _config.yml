@@ -68,7 +68,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          DevOps Solution for ecommerce platform.
+          Frequent releases and early time to market.
         description: | # this will include new lines to allow paragraphs
           I have Designed and implemented the CICD solutions via git actions for the ecommerce platform.
           Platform engineering design for SRE objectives.
