@@ -6,10 +6,10 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Sreeharinath Rangaraju
+title: DevOps, SRE and IT(Cloud) Infratructure Consultant
+email: gleanup.adm01@gmail.com
+website: https://sreeharinathrangaraju.github.io/Profile/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, My name's Sreeharinath and I'm an IT Condultant for DevOps SRE and IT Infrastructure Management. As well as passionate in digital transformation and automation.
+  I am most skilled in enterprise level technical architecture design, implemetation and production support.
+  <mark>Yoga and Meditation </mark> , <mark> Affordable Cars</mark> and <mark> Volunteer for better humanity and world peace </mark>
 
 content:
   - title: Projects # Title for the section
