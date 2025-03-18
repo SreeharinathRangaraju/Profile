@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Sreeharinath Rangaraju
-title: DevOps, SRE and IT Infrastructure Consultant
+title: IT Infrastructure, DevOps and SRE Consultant
 email: gleanup.adm01@gmail.com
 website: https://sreeharinathrangaraju.github.io/Profile/
 
@@ -48,17 +48,17 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, My name's Sreeharinath and I'm an IT Condultant for DevOps SRE and IT Infrastructure Management. As well as passionate in digital transformation and automation.
-  I am most skilled in <mark> enterprise level technical architecture design </mark>, <mark> IT Systems Implemetation and production support.</mark>
-  <mark>Yoga and Meditation </mark> , <mark> Affordable Cars</mark> and <mark> Volunteer for better humanity and world peace </mark>
+  Hi, I'm an IT Consultant with 20+ years of experience in IT Infrastructure Management, DevOps and SRE. As well as passionate in digital transformation and automation.
+  I am most skilled in <mark> Enterprise level technical IT Systems architecture design </mark>, <mark> IT Systems Implemetation and Production support.
+  I strongly believe in right action with optimal technical resources empowers an Industry or Business.
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: DevOps Implementation for Hudsons Bay Digital Platform
-        # link: github.com/sproogen
+        title: DevOps Implementation for Hudsons Bays Digital Platform
+        link: https://www.thebay.com
         # link_text: Project Website
         # additional_links:
         #   - title:  sproogen/modern-resume-theme
@@ -68,9 +68,14 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Designed the CICD solkutions via Github actions to implement DevOps solutions for the ecommerce platform.
+          DevOps Solution for ecommerce platform.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I have Designed and implemented the CICD solutions via git actions for the ecommerce platform.
+          Platform engineering design for SRE objectives.
+          Automated functional and performance testing via git actions.
+          Implemented a scalable containerized solution for multiple microservices.
+          Reduced the overall infrastructure cost and license cost by migrating to opensource platforms.
+          e.g.: Newrelic to Grafana Loki Migration.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
