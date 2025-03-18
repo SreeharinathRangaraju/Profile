@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Sreeharinath Rangaraju
-title: DevOps, SRE and IT(Cloud) Infratructure Consultant
+title: DevOps, SRE and IT Infrastructure Consultant
 email: gleanup.adm01@gmail.com
 website: https://sreeharinathrangaraju.github.io/Profile/
 
@@ -49,7 +49,7 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, My name's Sreeharinath and I'm an IT Condultant for DevOps SRE and IT Infrastructure Management. As well as passionate in digital transformation and automation.
-  I am most skilled in enterprise level technical architecture design, implemetation and production support.
+  I am most skilled in <mark> enterprise level technical architecture design </mark>, <mark> IT Systems Implemetation and production support.</mark>
   <mark>Yoga and Meditation </mark> , <mark> Affordable Cars</mark> and <mark> Volunteer for better humanity and world peace </mark>
 
 content:
