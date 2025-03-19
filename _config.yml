@@ -78,9 +78,9 @@ content:
             e.g.: Jenkins to Git actions, Newrelic to Grafana Loki Migration. 
 
   - title: Experience and Projects 2015 to 2022
-    layout: text
+    layout: list
     content:
-      - layout: top
+      - layout: text
         title: Infosys Technologies.
         link: www.Infosys.com        
         #sub_title: DevOps and Cloud Consulting
