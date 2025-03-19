@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   I strongly believe in right action with optimal technical resources empowers an Industry or Business.
 
 content:
-  - title: Experience and Projects # Title for the section
+  - title: Experience and Projects 2022 to 2025 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -76,8 +76,10 @@ content:
           Implemented a scalable containerized solution for multiple microservices.
           Reduced the overall infrastructure cost and license cost by migrating to opensource platforms.
           e.g.: Jenkins to Git actions, Newrelic to Grafana Loki Migration. 
+
+  - title: Experience and Projects 2015 to 2022
     content:
-      - layout: bottom-middle
+      - layout: top-middle
         title: Infosys Technologies.
         link: www.Infosys.com        
         #sub_title: DevOps and Cloud Consulting
