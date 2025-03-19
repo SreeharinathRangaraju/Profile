@@ -56,7 +56,7 @@ content:
   - title: Experience and Projects 2022 to 2025 # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top
+      - layout: text
         title: DevOps Implementation for Hudsons Bays Digital Platform
         link: https://www.thebay.com
         # link_text: Project Website
@@ -70,15 +70,15 @@ content:
         quote: >
           Frequent releases and early time to market.
         description: | # this will include new lines to allow paragraphs
-          I have Designed and implemented the CICD solutions via git actions for the ecommerce platform.
-          Platform engineering design for SRE objectives.
-          Automated functional and performance testing via git actions.
-          Implemented a scalable containerized solution for multiple microservices.
-          Reduced the overall infrastructure cost and license cost by migrating to opensource platforms.
-          e.g.: Jenkins to Git actions, Newrelic to Grafana Loki Migration. 
+          - I have Designed and implemented the CICD solutions via git actions for the ecommerce platform.
+          - Platform engineering design for SRE objectives.
+          - Automated functional and performance testing via git actions.
+          - Implemented a scalable containerized solution for multiple microservices.
+          - Reduced the overall infrastructure cost and license cost by migrating to opensource platforms.
+            e.g.: Jenkins to Git actions, Newrelic to Grafana Loki Migration. 
 
   - title: Experience and Projects 2015 to 2022
-    layout: list
+    layout: text
     content:
       - layout: top
         title: Infosys Technologies.
@@ -87,15 +87,15 @@ content:
         quote: >
           Strong DevOps experience with multiple domain like banking and telecom domain.
         description:
-          Client - Ally Bank Technology Labs
-          Enabling Dynamic Cloud based DevOps solutions for Financial technology Labs applications, research and proof of concepts.
-          Migration Planning and Execution of application to AWS and Open Shift.
-          Infrastructure as code in Terraform and Pipeline as code in Gitlab.
-          Cloud Architecture Design for applications.
-          Client - T-Mobile
-          Architecting solutions for DevOps design and implementation for Hadoop and Teradata portfolios.
-          Enabling automation for delivering BigData and Data warehouse objects via Continous Integrations and Continous Delivery.
-          Played a key role in enabling SOX compliance for true DevOps with appropriate automation, monitoring and reporting.
+          <mark> Client - Ally Bank Technology Labs </mark>
+          - Enabling Dynamic Cloud based DevOps solutions for Financial technology Labs applications, research and proof of concepts.
+          - Migration Planning and Execution of application to AWS and Open Shift.
+          - Infrastructure as code in Terraform and Pipeline as code in Gitlab.
+          - Cloud Architecture Design for applications.
+          <mark> Client - T-Mobile </mark>
+          - Architecting solutions for DevOps design and implementation for Hadoop and Teradata portfolios.
+          - Enabling automation for delivering BigData and Data warehouse objects via Continous Integrations and Continous Delivery.
+          - Played a key role in enabling SOX compliance for true DevOps with appropriate automation, monitoring and reporting.
        
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
