@@ -77,7 +77,7 @@ content:
           Reduced the overall infrastructure cost and license cost by migrating to opensource platforms.
           e.g.: Jenkins to Git actions, Newrelic to Grafana Loki Migration. 
     content:
-      - layout: top-middle
+      - layout: bottom-middle
         title: Infosys Technologies.
         link: www.Infosys.com        
         #sub_title: DevOps and Cloud Consulting
